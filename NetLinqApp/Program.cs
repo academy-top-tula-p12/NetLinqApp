@@ -1,0 +1,5 @@
+﻿using NetLinqApp;
+
+//Examples.Welcome();
+
+
